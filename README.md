@@ -1,2 +1,3 @@
 # car_project1
-1st git project
+My very 1st git repositary and I named it as car_project1
+I love playing :badminton: 
